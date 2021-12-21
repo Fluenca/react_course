@@ -1,0 +1,6 @@
+.card-item {
+  display: flex;
+  background-color: white;
+  width: 50%;
+  justify-content: center;
+}
